@@ -2,3 +2,4 @@
 main切り替え終了
 02-first-commit完了
 first-commit-practice.md現在進行中
+・保存→カリキュラム通り進めるため追記＿現在
